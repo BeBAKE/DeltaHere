@@ -1,2 +1,3 @@
 Now i have uploaded Delta to github repository.
 This modification is done after doing that.
+So basically it was modified only after the whole delta was made.
