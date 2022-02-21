@@ -1,0 +1,2 @@
+This is the class for the practice of git .
+Git is the technology and Github is the software.
